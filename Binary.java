@@ -14,7 +14,7 @@
  ******************************************************************/
  import javax.swing.*;
 
-public class BinaryProgram {
+public class Binary {
     public static void main(String[] args)
       {
         
